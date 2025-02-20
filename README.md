@@ -4,7 +4,6 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=250px  alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhuZGdndXV0ZzZ1MDM3N25rbGx6aWVpa3o3NDVsN3VtbzBnY21uNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOKrXLf9N5g76/giphy.gif"/>
 
 
 
