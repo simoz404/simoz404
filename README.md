@@ -1,13 +1,13 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/simoz404">Mohamed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mohamed+👋;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
 
-𝗛𝗶, 𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗠𝗼𝗵𝗮𝗺𝗲𝗱 𝗕𝗮𝗸𝗵𝗼𝘂𝗰𝗵 👋. 𝗜 𝗹𝗼𝘃𝗲 𝗰𝗼𝗱𝗶𝗻𝗴 💻 𝗮𝗻𝗱 𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 🧩. 𝗜'𝗺 𝗿𝗲𝗮𝗹𝗹𝘆 𝗶𝗻𝘁𝗼 𝗹𝗼𝗴𝗶𝗰 🧠, 𝘄𝗵𝗶𝗰𝗵 𝗶𝘀 𝘄𝗵𝘆 𝗜 𝗲𝗻𝗷𝗼𝘆 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 🖥️.
+
+
+𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗠𝗼𝗵𝗮𝗺𝗲𝗱 𝗕𝗮𝗸𝗵𝗼𝘂𝗰𝗵 👋. 𝗜 𝗹𝗼𝘃𝗲 𝗰𝗼𝗱𝗶𝗻𝗴 💻 𝗮𝗻𝗱 𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 🧩. 𝗜'𝗺 𝗿𝗲𝗮𝗹𝗹𝘆 𝗶𝗻𝘁𝗼 𝗹𝗼𝗴𝗶𝗰 🧠, 𝘄𝗵𝗶𝗰𝗵 𝗶𝘀 𝘄𝗵𝘆 𝗜 𝗲𝗻𝗷𝗼𝘆 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 🖥️.
 𝗜'𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝘁 𝗧𝗮𝗹𝗲𝗻𝘁 𝗮𝘁 𝗭𝗼𝗻𝗲𝟬𝟭 𝗢𝘂𝗷𝗱𝗮 🎓, 𝗮𝗶𝗺𝗶𝗻𝗴 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 👨‍💻. 𝗠𝘆 𝗱𝗿𝗲𝗮𝗺 𝗶𝘀 𝘁𝗼 𝘄𝗼𝗿𝗸 𝗶𝗻 𝗰𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 🔐 
 𝗮𝗻𝗱 𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗯𝘂𝗴 𝗯𝗼𝘂𝗻𝘁𝘆 𝗵𝘂𝗻𝘁𝗶𝗻𝗴 💥 𝗮𝘀 𝗮 𝘀𝗶𝗱𝗲 𝗵𝘂𝘀𝘁𝗹𝗲.
 <br>
