@@ -13,7 +13,6 @@
 <br>
   
 
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -39,3 +38,26 @@
 </p>
 
 <br>
+
+<!-- Soft Skills -->
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Soft Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  
+  <!-- You can tweak the labels below to exactly match your Emage-Me soft skills -->
+  <img src="https://img.shields.io/badge/Problem%20Solving-00bfbf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-008c8c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork%20%26%20Collaboration-006666?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-004c4c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ownership%20%26%20Responsibility-003333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-002222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-001111?style=for-the-badge" />
+  
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Soft skills evaluated on <a href="https://cv.emage-me.com/me/mohamed-bakhouch-1-TCH8qJsMYWxDm2Eljedv">Emage-Me</a> 💼</sub>
+</p>
